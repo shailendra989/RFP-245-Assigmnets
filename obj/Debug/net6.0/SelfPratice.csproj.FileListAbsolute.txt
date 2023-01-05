@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\bin\Debug\net6.0\SelfPratice.exe
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\bin\Debug\net6.0\SelfPratice.deps.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\bin\Debug\net6.0\SelfPratice.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\bin\Debug\net6.0\SelfPratice.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\bin\Debug\net6.0\SelfPratice.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\refint\SelfPratice.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\SelfPratice.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\SelfPratice\obj\Debug\net6.0\ref\SelfPratice.dll

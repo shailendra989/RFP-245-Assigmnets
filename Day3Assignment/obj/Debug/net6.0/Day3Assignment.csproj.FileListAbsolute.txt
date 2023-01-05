@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\Day3Assignment\bin\Debug\net6.0\Day3Assignment.exe
+C:\Users\91790\Desktop\dotnet\Day3Assignment\bin\Debug\net6.0\Day3Assignment.deps.json
+C:\Users\91790\Desktop\dotnet\Day3Assignment\bin\Debug\net6.0\Day3Assignment.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\Day3Assignment\bin\Debug\net6.0\Day3Assignment.dll
+C:\Users\91790\Desktop\dotnet\Day3Assignment\bin\Debug\net6.0\Day3Assignment.pdb
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.dll
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\refint\Day3Assignment.dll
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.pdb
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\Day3Assignment.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\Day3Assignment\obj\Debug\net6.0\ref\Day3Assignment.dll

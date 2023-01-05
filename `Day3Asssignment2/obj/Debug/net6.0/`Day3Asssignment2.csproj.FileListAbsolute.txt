@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\bin\Debug\net6.0\`Day3Asssignment2.exe
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\bin\Debug\net6.0\`Day3Asssignment2.deps.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\bin\Debug\net6.0\`Day3Asssignment2.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\bin\Debug\net6.0\`Day3Asssignment2.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\bin\Debug\net6.0\`Day3Asssignment2.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\refint\`Day3Asssignment2.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\`Day3Asssignment2.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\`Day3Asssignment2\obj\Debug\net6.0\ref\`Day3Asssignment2.dll

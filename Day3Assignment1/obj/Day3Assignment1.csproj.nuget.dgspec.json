@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91790\\Desktop\\dotnet\\Day3Assignment\\Day3Assignment.csproj": {}
+    "C:\\Users\\91790\\Desktop\\dotnet\\SelfPratice\\Day3Assignment1\\Day3Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91790\\Desktop\\dotnet\\Day3Assignment\\Day3Assignment.csproj": {
+    "C:\\Users\\91790\\Desktop\\dotnet\\SelfPratice\\Day3Assignment1\\Day3Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91790\\Desktop\\dotnet\\Day3Assignment\\Day3Assignment.csproj",
-        "projectName": "Day3Assignment",
-        "projectPath": "C:\\Users\\91790\\Desktop\\dotnet\\Day3Assignment\\Day3Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\91790\\Desktop\\dotnet\\SelfPratice\\Day3Assignment1\\Day3Assignment1.csproj",
+        "projectName": "Day3Assignment1",
+        "projectPath": "C:\\Users\\91790\\Desktop\\dotnet\\SelfPratice\\Day3Assignment1\\Day3Assignment1.csproj",
         "packagesPath": "C:\\Users\\91790\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91790\\Desktop\\dotnet\\Day3Assignment\\obj\\",
+        "outputPath": "C:\\Users\\91790\\Desktop\\dotnet\\SelfPratice\\Day3Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91790\\AppData\\Roaming\\NuGet\\NuGet.Config",
